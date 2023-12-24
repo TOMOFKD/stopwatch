@@ -1,0 +1,13 @@
+body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.now_time{
+  font-size: 30px;
+}
+
+button{
+  font-weight: bold;
+}
